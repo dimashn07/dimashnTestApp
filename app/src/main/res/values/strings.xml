@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppTestSuitMedia</string>
+    <string name="check_button">CHECK</string>
+    <string name="next_button">NEXT</string>
+    <string name="chose_user_button">Chose a User</string>
+    <string name="load_next_button">Load Next Page</string>
+
+    <string name="check_input">Check Your Input</string>
+    <string name="data_empty">Data is empty, please refresh to return to page 1</string>
+
+    <string name="is_palindrome">It is a palindrome</string>
+    <string name="not_palindrome">It is not a palindrome</string>
+
+    <string name="user_full_name">%1$s %2$s</string>
+</resources>
